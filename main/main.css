@@ -1,3 +1,10 @@
 body {
   background-color: #295350;
 }
+p {
+  font-size: 76px;
+}
+b {
+  font-style: italic;
+  font-size: 40px;
+}
